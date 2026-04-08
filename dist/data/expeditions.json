@@ -1,0 +1,156 @@
+[
+  {
+    "id": "e-0",
+    "title": "Mt. Everest Expedition",
+    "meta": "60 Days / 8848m",
+    "img": "/assets/trekking_path.png",
+    "desc": "The ultimate challenge via the South Col route. Full logistical support and weather routing."
+  },
+  {
+    "id": "e-1",
+    "title": "K2 Expedition",
+    "meta": "62 Days / 8611m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "Join our elite 1:1 guided ascent of the savage mountain with complete elite Sherpa support."
+  },
+  {
+    "id": "e-2",
+    "title": "Kangchenjunga Expedition",
+    "meta": "55 Days / 8586m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "A demanding, highly technical ascent on the third highest mountain in the world."
+  },
+  {
+    "id": "e-3",
+    "title": "Lhotse Expedition",
+    "meta": "50 Days / 8516m",
+    "img": "/assets/trekking_path.png",
+    "desc": "Summit the stunning fourth highest peak via the steep Lhotse Face with our expert team."
+  },
+  {
+    "id": "e-4",
+    "title": "Makalu Expedition",
+    "meta": "52 Days / 8485m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "A formidable challenge featuring steep pitching and exposed ridges on the Great Black mountain."
+  },
+  {
+    "id": "e-5",
+    "title": "Cho Oyu Expedition",
+    "meta": "42 Days / 8188m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "A relatively accessible but massively beautiful 8000er offering unparalleled Tibetan plateau views."
+  },
+  {
+    "id": "e-6",
+    "title": "Dhaulagiri I Expedition",
+    "meta": "48 Days / 8167m",
+    "img": "/assets/trekking_path.png",
+    "desc": "A breathtakingly sheer ascent demanding high cardiovascular fitness and mountain mastery."
+  },
+  {
+    "id": "e-7",
+    "title": "Manaslu Expedition",
+    "meta": "45 Days / 8163m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "Perfect for first-time 8000er climbers, guided comprehensively to ensure high safety standards."
+  },
+  {
+    "id": "e-8",
+    "title": "Nanga Parbat Expedition",
+    "meta": "55 Days / 8126m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "An iconic Pakistani summit requiring world-class perseverance on the monumental Rupal or Diamir faces."
+  },
+  {
+    "id": "e-9",
+    "title": "Annapurna I Expedition",
+    "meta": "50 Days / 8091m",
+    "img": "/assets/trekking_path.png",
+    "desc": "One of the most extreme climbs globally. Not for the faint of heart. Reserved for elite alpinists."
+  },
+  {
+    "id": "e-10",
+    "title": "Gasherbrum I Expedition",
+    "meta": "50 Days / 8080m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "An isolation-focused Karakoram ascent surrounded by jagged glaciers."
+  },
+  {
+    "id": "e-11",
+    "title": "Broad Peak Expedition",
+    "meta": "48 Days / 8051m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "An excellent introduction to Karakoram 8000m peaks, offering astounding views of K2 directly opposite."
+  },
+  {
+    "id": "e-12",
+    "title": "Gasherbrum II Expedition",
+    "meta": "45 Days / 8035m",
+    "img": "/assets/trekking_path.png",
+    "desc": "An approachable Karakoram 8000er perfect as a precursor to Everest or K2."
+  },
+  {
+    "id": "e-13",
+    "title": "Shishapangma Expedition",
+    "meta": "42 Days / 8027m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "The only 8000m peak entirely in Tibet, offering a uniquely remote, spiritual ascent."
+  },
+  {
+    "id": "e-14",
+    "title": "Ama Dablam Expedition",
+    "meta": "30 Days / 6812m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "A highly technical and visually stunning climb. Known as the Matterhorn of the Himalayas."
+  },
+  {
+    "id": "e-15",
+    "title": "Pumori Expedition",
+    "meta": "32 Days / 7161m",
+    "img": "/assets/trekking_path.png",
+    "desc": "A challenging 7000er functioning as a perfect training ground directly overlooking Everest."
+  },
+  {
+    "id": "e-16",
+    "title": "Baruntse Expedition",
+    "meta": "35 Days / 7162m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "A magnificent snow and ice peak requiring traverse via the remote Amphu Labtsa pass."
+  },
+  {
+    "id": "e-17",
+    "title": "Himlung Himal Expedition",
+    "meta": "28 Days / 7126m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "An increasingly popular 7000m objective near the Tibetan border with moderate technical difficulty."
+  },
+  {
+    "id": "e-18",
+    "title": "Mera Peak Expedition",
+    "meta": "18 Days / 6476m",
+    "img": "/assets/trekking_path.png",
+    "desc": "The highest trekking peak in Nepal. Technically straightforward but challenging altitude."
+  },
+  {
+    "id": "e-19",
+    "title": "Island Peak Expedition",
+    "meta": "19 Days / 6189m",
+    "img": "/assets/expedition_camp.png",
+    "desc": "A classic objective offering stunning panoramas and achievable alpine mixed climbing."
+  },
+  {
+    "id": "e-20",
+    "title": "Lobuche East Expedition",
+    "meta": "20 Days / 6119m",
+    "img": "/assets/hero_mountains.png",
+    "desc": "Ascend dramatic sweeping ridges near Everest base camp for unbeatable views."
+  },
+  {
+    "id": "e-21",
+    "title": "Thamserku Expedition",
+    "meta": "35 Days / 6608m",
+    "img": "/assets/trekking_path.png",
+    "desc": "A highly technical 6000er towering over Namche Bazaar, perfect for mixed-climbing specialists."
+  }
+]
